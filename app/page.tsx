@@ -58,7 +58,7 @@ export default function AboutMe() {
               <span className="text-sm text-gray-500">2023 - 2027</span>
             </div>
             <p className="text-gray-600">Bachelor of Science in Computer Science</p>
-            <p className="text-gray-500 text-sm">4th Semester, Streaming Artificial Intelligence</p>
+            <p className="text-gray-501 text-sm">4th Semester, Streaming Artificial Intelligence</p>
           </div>
         </div>
       </div>
